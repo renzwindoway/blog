@@ -1,0 +1,11 @@
+[33mcommit f47905540814c70b0fa3778db135bce68fca2182[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: renzchler <oxino.renzchler@gmail.com>
+Date:   Tue Jul 31 17:25:45 2018 +0800
+
+    Added Social Share, FB Page Plugin, Navs, Carousel, Temp Post Template
+
+[33mcommit ecdbbbe9789c186e0e6b6f975ee92512561b1500[m[33m ([m[1;32mstaging[m[33m, [m[1;32mprod[m[33m, [m[1;32mmaster[m[33m)[m
+Author: renzchler <oxino.renzchler@gmail.com>
+Date:   Tue Jul 31 13:08:09 2018 +0800
+
+    Setup laravel, migrations, folders, rdbms
